@@ -1,0 +1,1 @@
+#  -m streamlit run prediciton.py commna dfor run
